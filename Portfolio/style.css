@@ -16,7 +16,7 @@ main {
   min-height: 100vh;
   padding: 150px 50px 190px 50px;
   box-shadow: 0 0 12px -2px black;
-  color: rgb(241, 244, 247);
+  color: rgb(246, 241, 247);
   font-family: "Open Sans", sans-serif;
   font-size: 25px;
   display: block;
@@ -153,4 +153,21 @@ main > img {
 }
 h4 {
   text-align: right;
+}
+
+.contactMain {
+  background-color: #a349b9;
+  min-height: 100vh;
+  padding: 150px 50px 190px 50px;
+  box-shadow: 0 0 12px -2px black;
+  color: rgb(246, 241, 247);
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  display: block;
+  unicode-bidi: isolate;
+  border: 50 px;
+  box-sizing: border-box;
+}
+a {
+  color: #5a0e5a;
 }
